@@ -13,7 +13,7 @@ separate, **concurrent** tasks. Tasks (threads) are independent of one another a
 run in parallel on multiple computing cores.
 + The data accessed by the threads must be examined for dependencies between two or\
 more threads. When one thread depends on data from another, ensure that the execution\
-of the tasks is **synchronized** to accommodate the data dependency\
+of the tasks is **synchronized** to accommodate the data dependency
 + In **Synchronous Threading**, parent thread creates multiple children (or worker threads)\
 and then must wait for all of its children to terminate before it resumes. The threads\
 reated by the parent perform work concurrently, but the parent cannot continue until this\
