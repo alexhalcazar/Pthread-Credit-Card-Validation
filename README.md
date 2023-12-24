@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-> This project consists of writing a Synchronous Multithreaded Program that implements Luhn
+This project consists of writing a Synchronous Multithreaded Program that implements Luhn
 Algorithm for Credit card number validation.
 
 **Specifics**
